@@ -1,5 +1,9 @@
 # 🌌 Simple 3D Raytracer
 
+![C++](https://img.shields.io/badge/language-C++-blue)  
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey) 
+![License: GPLv3](https://img.shields.io/badge/license-GPLv3-green)
+
 A basic **raytracer written in C++** that renders simple 3D spheres with reflections, transparency, and lighting.  
 The output is generated as a `.ppm` image, which can also be converted to `.png` for easier viewing.
 
@@ -59,12 +63,12 @@ magick untitled2.ppm untitled2.png
 
 After running, the program generates:
 
-untitled2.ppm
+```untitled2.ppm```
 
 You can:
-1. Open .ppm with GIMP, IrfanView, Photoshop, or
-2. Convert it to PNG/JPG using ImageMagick:
-``` bash
+- Open .ppm with GIMP, IrfanView, Photoshop, or
+- Convert it to PNG/JPG using ImageMagick:
+```bash
 magick untitled2.ppm untitled2.png
 ```
 📖 Credits
