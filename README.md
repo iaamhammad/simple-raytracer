@@ -19,7 +19,6 @@ The output is generated as a `.ppm` image, which can also be converted to `.png`
 ---
 
 ## 📸 Sample Output
-
 Here is a rendered image from the raytracer:
 
 ![Raytracer Output](untitled2.png)
@@ -27,7 +26,7 @@ Here is a rendered image from the raytracer:
 ---
 
 ## 🛠 Requirements
-- A C++ compiler (g++, clang++, or MSVC)
+- A C++ compiler (**g++**, **clang++**, or **MSVC**)
 - Works on **Linux, macOS, and Windows**
 - (Optional) [ImageMagick](https://imagemagick.org) for converting `.ppm` → `.png`
 
@@ -53,16 +52,13 @@ g++ -O3 -Wall -o raytracer.exe raytracer.cpp
 # Run
 raytracer.exe
 ```
-
 Convert .ppm to .png (optional):
 ```bash
 magick untitled2.ppm untitled2.png
 ```
 
 🖼 Output & Conversion
-
 After running, the program generates:
-
 ```untitled2.ppm```
 
 You can:
