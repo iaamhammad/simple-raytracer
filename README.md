@@ -31,9 +31,7 @@ Here is a rendered image from the raytracer:
 
 ## 🚀 Build & Run
 
-// [compile]
-```bash
-### On Linux / macOS
+On Linux / macOS
 ```bash
 # Compile with your preferred compiler
 c++ -O3 -Wall -o raytracer raytracer.cpp
