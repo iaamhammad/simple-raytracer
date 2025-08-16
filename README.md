@@ -79,7 +79,7 @@ Original source code © 2012 [Scratchapixel](https://www.scratchapixel.com), dis
 
 ---
 
-This version was modified by **Hammad (2025)** for:
+This version was modified by **iaamhammad (2025)** for:
 - Adding extra comments for clarity  
 - Ensuring Windows compatibility (compilation & execution)
 ---
