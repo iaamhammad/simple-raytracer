@@ -77,6 +77,8 @@ I modified it for learning purposes (Windows compatibility, file handling, and e
 
 Original source code © 2012 [Scratchapixel](https://www.scratchapixel.com), distributed under the GNU General Public License v3.0.  
 
+---
+
 This version was modified by **Hammad (2025)** for:
 - Adding extra comments for clarity  
 - Ensuring Windows compatibility (compilation & execution)
