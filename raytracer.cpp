@@ -5,7 +5,7 @@
 // Original code from Scratchapixel’s "Introduction to Ray Tracing" tutorial
 // (https://www.scratchapixel.com/). Licensed under the GNU GPL v3.0.
 // 
-// Modifications by Hammad (2025):
+// Modifications by iaamhammad (2025):
 // - Added comments
 // - Adjusted for Windows compatibility
 //
