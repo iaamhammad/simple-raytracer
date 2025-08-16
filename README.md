@@ -75,5 +75,10 @@ This project is adapted from the tutorial and source code by Scratchapixel:
 Original code © 2012 Scratchapixel.com, distributed under the GNU General Public License v3.0.
 I modified it for learning purposes (Windows compatibility, file handling, and experimenting with rendering).
 
+Original source code © 2012 [Scratchapixel](https://www.scratchapixel.com), distributed under the GNU General Public License v3.0.  
+
+This version was modified by **Hammad (2025)** for:
+- Adding extra comments for clarity  
+- Ensuring Windows compatibility (compilation & execution)
 ---
 
