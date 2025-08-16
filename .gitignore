@@ -72,3 +72,11 @@ desktop.ini
 
 # Debug information files
 *.dwo
+
+# Generated images
+*.png
+*.ppm
+
+raytracer
+raytracer.exe
+

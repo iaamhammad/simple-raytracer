@@ -5,9 +5,11 @@
 // first move to the directory where this file is located
 // cd /c/Users/Yourdirectory/raytracer
 // c++ -o raytracer -O3 -Wall raytracer.cpp
-// or clang++ -O3 -o raytracer raytracer.cpp
-// or g++ -O3 -o raytracer raytracer.cpp
+// clang++ -O3 -o raytracer raytracer.cpp
+// g++ -O3 -o raytracer raytracer.cpp
 // then ./raytracer
+// for converting ppm to png
+// magick untitled3.ppm untitled3.png
 // [/compile]
 #include <cstdlib>
 #include <cstdio>
