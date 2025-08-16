@@ -1,13 +1,25 @@
 // [header]
 // A very basic raytracer example.
+// Simple 3D Raytracer
+// 
+// Original code from Scratchapixel’s "Introduction to Ray Tracing" tutorial
+// (https://www.scratchapixel.com/). Licensed under the GNU GPL v3.0.
+// 
+// Modifications by Hammad (2025):
+// - Added comments
+// - Adjusted for Windows compatibility
+//
 // [/header]
+//
 // [compile]
 // first move to the directory where this file is located
 // cd /c/Users/Yourdirectory/raytracer
+
 // c++ -o raytracer -O3 -Wall raytracer.cpp
 // clang++ -O3 -o raytracer raytracer.cpp
 // g++ -O3 -o raytracer raytracer.cpp
 // then ./raytracer
+//
 // for converting ppm to png
 // magick untitled3.ppm untitled3.png
 // [/compile]
