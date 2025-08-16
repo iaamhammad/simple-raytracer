@@ -14,6 +14,14 @@ The output is generated as a `.ppm` image, which can also be converted to `.png`
 
 ---
 
+## 📸 Sample Output
+
+Here is a rendered image from the raytracer:
+
+![Raytracer Output](untitled2.png)
+
+
+
 ## 🛠 Requirements
 - C++ compiler (g++, clang++, or MSVC)
 - Works on **Linux, macOS, and Windows**
